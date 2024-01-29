@@ -40,8 +40,8 @@ Below are a list of these projects with likes to the live sites, code repositori
   			</a>
 			</p>
 			<p align="center">
-    		<a href="https://product-review-card-mu.vercel.app/" target="_blank">Live</a> | 
-				<a href="https://github.com/victorbruce/product-review-card" target="_blank">Repo</a>
+    		<a href="https://qr-code-component-six-eta.vercel.app/" target="_blank">Live</a> | 
+				<a href="https://github.com/victorbruce/qr-code-component" target="_blank">Repo</a>
   </p>
 		</td>
 		<td width="50%">
