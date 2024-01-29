@@ -18,13 +18,13 @@ Below are a list of these projects with likes to the live sites, code repositori
   			</a>
 			</p>
 			<p align="center">
-    		<a href="https://frontend-mentor-challenges-theta-ruby.vercel.app/" target="_blank">Live</a> | 
-				<a href="https://github.com/victorbruce/frontend-mentor-challenges" target="_blank">Repo</a>
+    		<a href="#" target="_blank">Live</a> | 
+				<a href="#" target="_blank">Repo</a>
   </p>
 		</td>
 		<td width="50%">
 			<picture>
-				<img src="./product-review-card/screenshots/screenshot.png" alt="" />
+				<img src="./screenshots/product-review.png" alt="" />
 			</picture>
 		</td>
 	</tr>
