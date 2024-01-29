@@ -1,0 +1,3 @@
+[submodule "challenges/product-review-card"]
+	path = challenges/product-review-card
+	url = https://github.com/victorbruce/product-review-card
