@@ -4,3 +4,6 @@
 [submodule "challenges/qr-code-component"]
 	path = challenges/qr-code-component
 	url = https://github.com/victorbruce/qr-code-component
+[submodule "challenges/news-homepage"]
+	path = challenges/news-homepage
+	url = https://github.com/victorbruce/news-homepage

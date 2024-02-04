@@ -51,3 +51,25 @@ Below are a list of these projects with likes to the live sites, code repositori
 		</td>
 	</tr>
 </table>
+
+<table>
+	<tr>
+		<td align="center" width="50%">
+			<h2>News Home Page</h2>
+			<p>
+				<a href="https://skillicons.dev">
+    			<img src="https://skillicons.dev/icons?i=react,tailwind,ts,vitest,testing-library" alt="My Skills">
+  			</a>
+			</p>
+			<p align="center">
+    		<a href="https://news-homepage-victorbruce.vercel.app/" target="_blank">Live</a> | 
+				<a href="https://github.com/victorbruce/news-homepage" target="_blank">Repo</a>
+  </p>
+		</td>
+		<td width="50%">
+			<picture>
+				<img src="./screenshots/news-homepage.png" alt="" />
+			</picture>
+		</td>
+	</tr>
+</table>
