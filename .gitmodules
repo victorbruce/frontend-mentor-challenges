@@ -7,3 +7,6 @@
 [submodule "challenges/news-homepage"]
 	path = challenges/news-homepage
 	url = https://github.com/victorbruce/news-homepage
+[submodule "challenges/ecommerce-product"]
+	path = challenges/ecommerce-product
+	url = https://github.com/victorbruce/ecommerce-product
